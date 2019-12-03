@@ -1,2 +1,2 @@
 # MailViewer
-A GUI interface client for mail services.
+A mock mail interface client.
